@@ -50,4 +50,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-celsolarussa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-larussa-273b79193/)](https://www.linkedin.com/in/celso-larussa-273b79193/)
 [![Gmail Badge](https://img.shields.io/badge/-celsolarussa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsolarussa@gmail.com)](mailto:celsolarussa@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/celsolarussa)
+[![GitHub](https://img.shields.io/github/followers/celsolarussa?label=follow&style=social)](https://github.com/celsolarussa)
