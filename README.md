@@ -2,7 +2,6 @@
 
 ## Sobre mim
 
-- 🤔 Desbravando o universo digital e construindo caminhos com o auxílio da tecnologia.
 - 🎓 Bacharel em Sistemas de Informação.
 - 💼 Trabalhando como Consultor RPA.
 - 🌱 Aprendendo mais sobre o mundo da tecnologia.
